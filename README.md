@@ -233,3 +233,5 @@ MIT
 > **Note**
 >
 > This is an independent, fan-made addon. It connects to other source addons but has no direct connection to their operators.
+
+c
